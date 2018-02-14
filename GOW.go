@@ -6,4 +6,5 @@ import(
 
 func main() {
 	fmt.Println("Here the War begins ... ")
+	panic("Shut!")
 }
